@@ -1,4 +1,4 @@
-# Benchline Framework
+# Benchline Framework (IP)
 ### A Design Intelligence Measurement Framework for Products & Interfaces
 
 **Author:** Susan E. Aldridge  
