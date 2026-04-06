@@ -306,6 +306,14 @@ The framework integrates these theoretical sources into a unified evaluation arc
 
 ---
 
+## Support This Work
+
+If this framework has been useful for your GovCon pursuits, consider buying me a coffee. It helps me keep building open source tools for the design and GovCon community.
+
+☕ [Buy Me a Coffee](https://buymeacoffee.com/teamdesignstudios)
+
+---
+
 ## About the Author
 
 **Susan E. Aldridge** is a Staff-level UX Research and Design practitioner and founder of Eternal Graphx LLC / Team Design Studios, based in Bentonville, AR. With 26 years of cross-disciplinary experience spanning graphic design, enterprise product design, UX research, and AI-assisted design workflows, she developed the Benchline Framework to address a gap she observed repeatedly across enterprise product engagements: the absence of a structured way to measure not just whether a product follows the rules, but whether it thinks.
