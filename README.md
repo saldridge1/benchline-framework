@@ -173,7 +173,7 @@ Leadership
 
 **Susan E. Aldridge** is a Staff-level UX Research and Design practitioner and CEO of Eternal Graphx LLC (Est. 1999), based in Bentonville, AR. With 26 years of cross-disciplinary experience spanning graphic design, enterprise product design, UX research, and AI-assisted design workflows, she developed the Benchline Framework to address a gap she observed repeatedly across enterprise product engagements: the absence of a structured way to measure not just whether a product follows the rules, but whether it thinks.
 
-Benchline is one of three proprietary frameworks developed under the Design Intelligence practice at Team Design Studios.
+Benchline is one of three proprietary frameworks developed under the Design Intelligence practice at Eternal Graphx, LLC.
 
 ---
 
